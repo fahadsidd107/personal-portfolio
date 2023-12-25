@@ -31,7 +31,7 @@ import express from "./tech/express.png";
 import graph from "./tech/graph.png";
 import kubernetes from "./tech/kubernetes.png";
 import redis from "./tech/redis.png";
-import jenkins from "./tech/jenkins.png";
+import jenkins from "./tech/Jenkins.png";
 import nest from "./tech/nest.png"
 import next from "./tech/next.png";
 import prisma from "./tech/prisma.png";

@@ -216,6 +216,20 @@ const experiences = [
       "Proficient in collaboration, learning, and delivering high-quality solutions meeting MSET's rigorous standards.",
     ],
   },
+  {
+  title: "Working Student – Full Stack Developer",
+  company_name: "Anue Education Solutions GmbH",
+  icon: anue,
+  iconBg: "#E6DEDD",
+  date: "March 2025 - Present",
+  points: [
+    "Serve as the de facto technical lead of the engineering team, owning all architectural decisions across a full-stack platform built with Spring Boot, Next.js 14, PostgreSQL, and Docker.",
+    "Designed and implemented scalable RESTful APIs across the entire platform, covering all feature modules with a fully documented and Postman-tested API layer.",
+    "Drove critical infrastructure improvements including migrating static assets to Google Cloud Storage, resolving a severe Docker image bloat issue, and establishing a CI/CD pipeline via GitHub Actions.",
+    "Owned end-to-end deployment architecture using Docker and cloud infrastructure, ensuring platform stability and release reliability across all environments.",
+    "Mentored and coordinated the junior developers, conducting code reviews, defining development standards, and unblocking technical bottlenecks across the entire product lifecycle.",
+  ],
+},
 ];
 
 const testimonials = [

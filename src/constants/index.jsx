@@ -49,6 +49,8 @@ import binary from "../assets/company/binary.jpg";
 import sidat from "../assets/company/sidat.png";
 import ashtar from "../assets/company/ashtar.png";
 import mse from "../assets/company/mse.png";
+import anue from "../assets/company/anue.png";
+
 
 export const navLinks = [
   {
